@@ -43,7 +43,7 @@ Caracteristicas:
 - 📈 Estadísticas detalladas de resultados de cuestionarios
 - ⏱️ Control de tiempo para realización de cuestionarios
 - 🎯 Configuración de puntaje mínimo para aprobar
-
+- Cambio del readme....
 ### configuración archivo .env en la raiz del backend
 
 ```js
