@@ -4,6 +4,8 @@
 
 https://chatdocente.onrender.com/
 
+Integrante: Cuauhtemoc Montoya
+
 Caracteristicas:
 
 - 🌟 Stack tecnológico: MERN + Socket.io + TailwindCSS + Daisy UI
